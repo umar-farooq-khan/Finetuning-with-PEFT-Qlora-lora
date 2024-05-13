@@ -1,4 +1,4 @@
-# Full report and properly written code will be uploaded after publication.
+# Full report will be uploaded after publication.
 
 Results: Getting 74% cosine similarity and good rouge scores. 
 Original and Generated Report can be seen in the screenshot. 
